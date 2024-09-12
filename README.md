@@ -37,6 +37,9 @@ This is a side project I made to learn about Android apps and to practice implem
 
 ### Features
 
+Add walls, remove walls, set start & end of desired path:
+
+https://github.com/user-attachments/assets/09e79216-16ff-4f73-a6ee-62ad5c09b2d4
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,6 +78,7 @@ Some features that would be fun to add:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+[product-screenshot]: https://drive.google.com/file/d/1rnBvLvwCp1dNsZXmczlAVDcNG-TPZusb/view?usp=sharing
 [AndroidStudio]: https://img.shields.io/badge/Android_Studio-50b057?style=for-the-badge&logo=android-studio&logoColor=white
 [AndroidStudio-url]: https://developer.android.com/studio
 [Gradle]: https://img.shields.io/badge/Gradle-008080?style=for-the-badge&logo=gradle&logoColor=white
