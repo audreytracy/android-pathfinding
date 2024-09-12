@@ -17,7 +17,6 @@
         <li><a href="#purpose">Prereqs</a></li>
         <li><a href="#setup-steps">Setup Steps</a></li>
       </ul>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
@@ -41,8 +40,6 @@ Add walls, remove walls, set start & end of desired path:
 
 https://github.com/user-attachments/assets/09e79216-16ff-4f73-a6ee-62ad5c09b2d4
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ## Setup
 
@@ -59,14 +56,6 @@ Clone this repository locally using
   git clone https://github.com/audreytracy/android-pathfinding.git
   ```
 In Android Studio, go to File -> Open to find & open the project.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Usage
-
-This app is just for fun!
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Roadmap
 
