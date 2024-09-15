@@ -14,7 +14,7 @@
     </li>
     <li><a href="#setup">Setup</a></li>
     <ul>
-        <li><a href="#purpose">Prereqs</a></li>
+        <li><a href="#prerequisites">Prereqs</a></li>
         <li><a href="#setup-steps">Setup Steps</a></li>
       </ul>
     <li><a href="#roadmap">Roadmap</a></li>
